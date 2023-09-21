@@ -346,7 +346,7 @@ html, body{ height: 100%; }
 -------------------------------------------------------------------*/
 
 .banner{
-	background:url(../images/backround_salad.jpg) no-repeat center top;
+	background: rgba(0, 0, 0, 0.5) url(/images/backround_salad.jpg) no-repeat center top;
 	background-attachment:fixed;
 	background-size:cover;
 	height:100vh;
